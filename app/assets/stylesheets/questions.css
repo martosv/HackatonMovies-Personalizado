@@ -1,0 +1,48 @@
+body {
+	background-image: url('/img/Elegant_Background-9.jpg');
+	width: 100%;
+	margin: 0 auto !important;
+}
+
+header {
+	color: #fff;
+	text-align: center;
+	font-size: 200%;
+	font-family: ;
+}
+
+hr {
+	width: 80%;
+}
+
+.image-size {
+	background-size: cover;
+	width: 150px;
+	height: 200px;
+	-webkit-box-shadow: 36px 25px 17px -8px rgba(0,0,0,0.65);
+	box-shadow: 36px 25px 17px -8px rgba(0,0,0,0.65);
+	border-radius: 8px;
+	margin: 12px 0px 12px;
+	overflow: hidden;
+}
+
+.poster:hover {
+	opacity: 0.75;
+}
+
+.hidden_text {
+	visibility: hidden;
+}
+
+#question {
+	text-align: center;
+	color: #ffd;
+	font-size: 150%;
+}
+
+.criterion label{
+	color: white;
+}
+.criterion {
+	text-align: center;
+}
